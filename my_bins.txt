@@ -1,0 +1,18 @@
+Test Case 1
+First Fit: 4
+First Fit Decreasing: 3
+Best Fit: 4
+Best Fit Decreasing: 3
+
+Test Case 2
+First Fit: 15
+First Fit Decreasing: 10
+Best Fit: 15
+Best Fit Decreasing: 10
+
+Test Case 3
+First Fit: 3
+First Fit Decreasing: 2
+Best Fit: 2
+Best Fit Decreasing: 2
+

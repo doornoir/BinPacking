@@ -1,0 +1,18 @@
+Test Case 1
+First Fit: 4, Time: 0.000004
+First Fit Decreasing: 3, Time: 0.000005
+Best Fit: 4, Time: 0.000005
+Best Fit Decreasing: 3, Time: 0.000002
+
+Test Case 2
+First Fit: 15, Time: 0.000005
+First Fit Decreasing: 10, Time: 0.000006
+Best Fit: 15, Time: 0.000007
+Best Fit Decreasing: 10, Time: 0.000010
+
+Test Case 3
+First Fit: 3, Time: 0.000001
+First Fit Decreasing: 2, Time: 0.000001
+Best Fit: 2, Time: 0.000001
+Best Fit Decreasing: 2, Time: 0.000001
+
